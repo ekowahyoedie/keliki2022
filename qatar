@@ -1,3 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="world cup", world cup 1
-https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC1
+https://playing.goforfreedomwme.net/live/itvuk_720p/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC2
+https://playing.tunnelcdnsw.net/live/itvuk/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC3
+https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC4
+https://playing.smoothlikebutterstream.com/live/fs1us/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC5
+https://playing.goforfreedomwme.net/live/beinsport1fr/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC6
+https://turnthe.gameon.tel/live/telemundo/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC7
+https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC8
+https://playing.smoothlikebutterstream.com/live/beinsportsmax1ar/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC9
+https://playing.smoothlikebutterstream.com/live/rai2it/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC10
+https://turnthe.gameon.tel/live/rsila2ch/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC11
+https://playing.smoothlikebutterstream.com/live/matchtvru/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC12
+https://turnthe.gameon.tel/live/tvpsportpl/index.m3u8
+
+#EXTINF:-1 group-title="worldcup" tvg-logo="",WC13
+https://playing.tunnelcdnsw.net/live/cctv5cn/index.m3u8
