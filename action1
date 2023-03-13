@@ -1,40 +1,51 @@
-#EXTM3U 
- #EXTINF:-1 tvg-id="" tvg-name="Dubai Tv" tvg-logo="https://media.elcinema.com/tvguide/1169_1.png" group-title="UEA",Dubai Tv
-https://nonton.site:8443/movie/ekos/7483/3859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Tv" tvg-logo="https://media.elcinema.com/tvguide/1169_1.png" group-title="UEA",Dubai Tv
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name=" Drive" tvg-logo="" group-title="Action", Drive
+https://nonton.site:8443/movie/ekos/7483/3955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Assassins - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Vr1c98X9JaKW6K95Xm6KBqiqDg.jpg" group-title="Action",13 Assassins - 2010
 https://nonton.site:8443/movie/ekos/7483/14787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dubai Tv" tvg-logo="https://media.elcinema.com/tvguide/1169_1.png" group-title="UEA",Dubai Tvhttps://nonton.site:8443/movie/ekos/7483/29189.mp4
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutes of War - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHXzqCiAmgVhhJscGJIQH94vac0.jpg" group-title="Action",15 Minutes of War - 2019
+https://nonton.site:8443/movie/ekos/7483/29189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Guns" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30lM3Uvzs6HOG5l4hzhwxYTWgd3.jpg" group-title="Action",2 Guns
 https://nonton.site:8443/movie/ekos/7483/2982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="21 Jump Street - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH6xazzfGdszadd1Xy9JgdZYvn1.jpg" group-title="Action",21 Jump Street - 2012
 https://nonton.site:8443/movie/ekos/7483/9509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="211" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81RColr4rau6DZ7z9eMsksokcfk.jpg" group-title="Action",211
 https://nonton.site:8443/movie/ekos/7483/3567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="300: Rise of an Empire" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWQf5j3ZqEfOdW2rIZnkuOOva78.jpg" group-title="Action",300: Rise of an Empire
 https://nonton.site:8443/movie/ekos/7483/2985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Action",6 Underground - 2019
 https://nonton.site:8443/movie/ekos/7483/10820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Better Tomorrow - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPJr6xvy4v9xzGVHu5JkTQyLu0n.jpg" group-title="Action",A Better Tomorrow - 1986
 https://nonton.site:8443/movie/ekos/7483/28664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Better Tomorrow II - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPJr6xvy4v9xzGVHu5JkTQyLu0n.jpg" group-title="Action",A Better Tomorrow II - 1987
 https://nonton.site:8443/movie/ekos/7483/28665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fistful of Lead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ci5A9TPmNajMxt1L8p4KlZ76sc9.jpg" group-title="Action",A Fistful of Lead
 https://nonton.site:8443/movie/ekos/7483/2988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Good Day to Die Hard - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2SQMd00CCGTiDxGXVqA2J9lmzF.jpg" group-title="Action",A Good Day to Die Hard - 2013
 https://nonton.site:8443/movie/ekos/7483/28650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Perfect Plan - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wah4b3hDb3ueVNuwNxdplUE8ppQ.jpg" group-title="Action",A Perfect Plan - 2020
 https://nonton.site:8443/movie/ekos/7483/29639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abducted - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE3Dg5k8I4YYejbgha2ZuYIKL3Y.jpg" group-title="Action",Abducted - 2020
 https://nonton.site:8443/movie/ekos/7483/27388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Acceleration - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qx3khck1M7Qfrq7Ost8zGzL4EOe.jpg" group-title="Action",Acceleration - 2019
 https://nonton.site:8443/movie/ekos/7483/11487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="African Kung-Fu Nazis (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDn1DzN7AH42EtPx0ww6TdpSYZc.jpg" group-title="Action",African Kung-Fu Nazis (2019)
 https://nonton.site:8443/movie/ekos/7483/36867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Air Force One - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgg8psC8jvNEx5RC4NJ4c9J0KtE.jpg" group-title="Action",Air Force One - 1997
 https://nonton.site:8443/movie/ekos/7483/28643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AK-47 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVvypfWL6gka57SSgrRbNJ3zQ46.jpg" group-title="Action",AK-47 (2020)
 https://nonton.site:8443/movie/ekos/7483/34701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ala Vaikunthapurramuloo - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48DIQOSEgpoWUFBrmHW2En6aNZQ.jpg" group-title="Action",Ala Vaikunthapurramuloo - 2020
 https://nonton.site:8443/movie/ekos/7483/27297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita: Battle Angel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="Action",Alita: Battle Angel
 https://nonton.site:8443/movie/ekos/7483/2989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Allied" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzXzLFTnd0Zb3ExfhOxlQgizgSu.jpg" group-title="Action",Allied
 https://nonton.site:8443/movie/ekos/7483/4017.mp4
-https://nonton.site:8443/movie/ekos/7483/33739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Assassin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6vjeHx3UEaBXIyc8VFqyZYKznD.jpg" group-title="Action",American Assassin
 https://nonton.site:8443/movie/ekos/7483/2979.mkv
-https://nonton.site:8443/movie/ekos/7483/2991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ancestral World (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cm6lzogqd5WqK70QjBF15zS6aSx.jpg" group-title="Action",Ancestral World (2020)
 https://nonton.site:8443/movie/ekos/7483/30975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angel Has Fallen - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fapXd3v9qTcNBTm39ZC4KUVQDNf.jpg" group-title="Action",Angel Has Fallen - 2019
 https://nonton.site:8443/movie/ekos/7483/14764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Angels Fallen - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ykk0j8rtUXP8420J0xPLD34sni.jpg" group-title="Action",Angels Fallen - 2020
 https://nonton.site:8443/movie/ekos/7483/14567.mp4
-https://nonton.site:8443/movie/ekos/7483/8990.mkv
-https://nonton.site:8443/movie/ekos/7483/8989.mkv
-https://nonton.site:8443/movie/ekos/7483/34571.mkv
