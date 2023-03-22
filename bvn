@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BVN" tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47" group-title="BVN",BVN
 https://bozztv.com/inim03/live1/giniko_bvntv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV Badung",SP. Raya Kuta 
-http://103.138.206.40/camera/SP_RAYA_KUTA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Tv" tvg-logo="https://media.elcinema.com/tvguide/1169_1.png" group-title="UEA",Dubai Tv 
+ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b5000000.m3u8
