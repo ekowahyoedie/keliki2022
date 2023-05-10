@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BVN" tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47" group-title="BVN",BVN
 https://bozztv.com/inim03/live1/giniko_bvntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BVN" tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47" group-title="BVN",BVN111
+#EXTINF:-1 tvg-id="" tvg-name="BVN111" tvg-logo="https://play-lh.googleusercontent.com/EoyuY_6GHvqxKw6Gp_srSrdVrdMUvKvk2yW1-VNqcXenuejldG3AtSm6RHTSzM6vnA47" group-title="BVN",BVN111
 https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/nosignal.mp4
