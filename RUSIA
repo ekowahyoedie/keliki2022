@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 8" tvg-logo="http://8tv.ru/images/logo.png" group-title="Rusia",Kanal 8
 https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTR Planeta" tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rtr-planeta-live-hd.png" group-title="Rusia",RTR Planeta
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?e=1675360800&s=391
+https://player.smotrim.ru/iframe/stream/live_id/4941?e=1683950400&s=391
 #EXTINF:-1 tvg-id="" tvg-name="1TvRus" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/perviy_1_kanal.png" group-title="Rusia",1TvRus
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MirTv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mir_ru.png" group-title="Rusia",MirTv
