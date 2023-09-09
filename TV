@@ -177,7 +177,7 @@ https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTU1NDRjYzUtMmNlOS0zZmUwLWE3MjUtODQ4NWI5Yzg0MWU2
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg",BBC World News Asia Pacific
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-https://on-load.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+https://on-load.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTU1NDRjYzUtMmNlOS0zZmUwLWE3MjUtODQ4NWI5Yzg0MWU2
