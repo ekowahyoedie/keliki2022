@@ -1,17 +1,1 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://alfa.toda.my.id/drm/today/maxstream/568689835042901233416791/SIGNIHBOS #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_t4w6p88r/banner_xxhdpi.jpg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Movies",HBO Signature (MAX) https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd 
-
-
-
-
-
-
-
-
+#EXTM3U #EXTM3U x-tvg-url="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://alfa.toda.my.id/drm/today/maxstream/568689835042901233416791/FAMNIHBOS #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_xxhdpi.jpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Movies",HBO Family (MAX) https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd 
