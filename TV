@@ -1,4 +1,3 @@
-#EXTM3U #EXTM3U x-tvg-url="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" #EXTM3U url-tvg="https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_ID.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" 
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -25,18 +24,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png",INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosiar
-
+http://tvkuonline.my.id:25461/riyad/riyad/14
+http://tvkuonline.my.id:25461/riyad/riyad/14
+http://tvnid.x10.mx/vidio/master.m3u8
 
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png",SCTV
-http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+http://103.166.27.2:8112/play/a015/index.m3u8
 http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
 
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://i.imgur.com/q6uqktq.png",MOJI
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-
+http://tvkuonline.my.id:25461/riyad/riyad/24
 
 
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",TRANS TV
@@ -575,8 +574,8 @@ http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO
-https://malay.yurendtv.biz.id/dash-wv/linear/2304/default_ott.mpd
 https://nonton.site:8443/ekos/7483/1496
+0
 
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo.png",HBO HITS
@@ -996,7 +995,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/wIh3qZo.png",TVRI KALSEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
-
 
 
 
