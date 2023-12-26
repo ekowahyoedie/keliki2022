@@ -2,6 +2,14 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="KAMANDALU UBUD" tvg-logo="https://www.kamandaluresort.com/images/kamandalu-logo.png" group-title="KAMANDALU UBUD",KAMANDALU UBUD
 https://rizea.my.id/kamandalu/kamandalu.mov
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV HD" tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="KAMANDALU UBUD",METRO TV HD
+http://gachor99.my.id:25461/ekobali/yuk/1867
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV HD" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png" group-title="KAMANDALU UBUD",KOMPAS TV HD
+http://gachor99.my.id:25461/ekobali/yuk/1868
+#EXTINF:-1 group-title="KAMANDALU UBUD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+#EXTINF:-1 group-title="KAMANDALU UBUD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://www.logotypes101.com/logos/183/3CBD53E88BFA6A35E1ACBBF471072C50/hbohd.png" group-title="MOVIES",HBO HD
 http://gachor99.my.id:25461/ekobali/yuk/1851
