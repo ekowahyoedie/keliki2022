@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A8HRZc0hnQGpXf__iXXYSQGWIuEhhWxFtg6IgucMEMVC8pcYFY01diUR0EceJPkmQDE&usqp=CAU",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131634_eng=131600-video=1680400.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCeWkaF9Mc_JC7Ukyvf-fL0PpCbRT9q8aIzOrobwnOTiLuR0zqkJZ2RFiWTr_gaRDwDJo&usqp=CAU",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
