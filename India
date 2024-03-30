@@ -15,7 +15,10 @@ https://cors-65cs.onrender.com/https://ucdn.starhubgo.com/bpk-tv/SunTV/output/ma
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIA TV" tvg-id="",Star Vijay (AST) 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIA TV" tvg-id="",Star Vijay 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82 
 http://38.47.189.15:8000/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="INDIA TV",Sony SAB HD 
+https://ott-navigator.my.id/maestro/sony/CrTivkDESWqwvUj3zFEYEA/master.m3u8
