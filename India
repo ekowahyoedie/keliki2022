@@ -5,3 +5,17 @@ https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_New
 
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCeWkaF9Mc_JC7Ukyvf-fL0PpCbRT9q8aIzOrobwnOTiLuR0zqkJZ2RFiWTr_gaRDwDJo&usqp=CAU",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
+
+
+#EXTINF:-1 tvg-name="" group-title="INDIA TV" group-logo="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80 
+https://cors-65cs.onrender.com/https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-title="INDIA TV" tvg-id="",Star Vijay (AST) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82 
+http://38.47.189.15:8000/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
