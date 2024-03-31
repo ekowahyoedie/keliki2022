@@ -9,7 +9,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 
 #EXTINF:-1 tvg-name="" group-title="INDIA TV" group-logo="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80 
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+http://38.47.189.15:8000/https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
 https://cors-65cs.onrender.com/https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
 
 
