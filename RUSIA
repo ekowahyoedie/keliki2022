@@ -1,12 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Kanal 8" tvg-logo="http://8tv.ru/images/logo.png" group-title="Rusia",Kanal 8
 http://103.178.153.99:25461/anvaya/anvaya123/128
-https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTR Planeta" tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rtr-planeta-live-hd.png" group-title="Rusia",RTR Planeta
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/nosignal.mp4
+https://player.smotrim.ru/iframe/stream/live_id/4941?e=1683950400&s=391
 #EXTINF:-1 tvg-id="" tvg-name="1TvRus" tvg-logo="https://www.lyngsat-stream.com/logo/tv/pp/perviy_1_kanal.png" group-title="Rusia",1TvRus
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/nosignal.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MirTv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mir_ru.png" group-title="Rusia",MirTv
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/nosignal.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RBK TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/rbk_tv_ru.png" group-title="Rusia",RBK TV
-https://raw.githubusercontent.com/ekowahyoedie/inhouse/main/nosignal.mp4
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
