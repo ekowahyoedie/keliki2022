@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN SPORTS (HD)" tvg-id="beINSPORTS.sg" group-title="🇸🇬 Singteltv 🇸🇬" tvg-logo="https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20126%20-%20beIN_SPORTS.png",beIN SPORTS (HD)
+KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a07e03c0ba140358b7c4e47e05e0b29:53b5f74d7d986dacef85122677a73da5
+https://cors.ruangputih.xyz/makan_bang/channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/6126/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
