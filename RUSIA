@@ -4,8 +4,6 @@ http://103.93.58.246:1234/stream/lain/kanal8/fmp4_video.m3u8?uid=1004558586&u=ek
 http://103.178.153.99:25461/live/stregis/stregis123/128.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTR Planeta" tvg-logo="https://arm-tv.com/wp-content/uploads/2016/06/rtr-planeta-live-hd.png" group-title="Rusia",RTR Planeta
-http://103.178.153.99:25461/live/stregis/stregis123/2071.m3u8
-http://o11.omegatv.my.id:1234/stream/lain/rtrplaneta/fmp4_video.m3u8?uid=2626566663&u=eko&p=560ff8477c9fee37ddb37c38c06447260cf3eb494e4bb1aad201ef0670e9d5d4
 https://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b?e=1736243768&s=596
 https://player.smotrim.ru/iframe/stream/live_id/4941?e=1683950400&s=391
 
